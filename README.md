@@ -4,7 +4,7 @@ Utilizando todos os conhecimentos adquiridos em livros, vídeos e no curso [Pyth
 
 #### Fiquem à vontade para sugerirem mellhorias no código. 
 
-Cada pasta demtro deste repositório será o site de onde o exercício foi retirado. 
+Cada pasta dentro deste repositório será o site de onde o exercício foi retirado. 
 O nome do arquivo será o nome do exercício para facilitar a busca.
 
 Lista dos sites (pasta -> link do site):
